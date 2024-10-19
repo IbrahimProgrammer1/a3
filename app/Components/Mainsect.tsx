@@ -1,7 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import iq from './img1.jpeg'
-import Link from 'next/link'
 import ava from './img4.png'
 
 
