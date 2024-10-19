@@ -13,6 +13,11 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
     },
+    fontFamily:{
+      poppins: ["Poppins", "sans-serif"],
+      oswald: ["Oswald", "sans-serif"],
+
+    }
   },
   plugins: [],
 };
